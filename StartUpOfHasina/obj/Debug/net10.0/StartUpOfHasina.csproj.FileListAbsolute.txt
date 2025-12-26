@@ -1,0 +1,14 @@
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\obj\Debug\net10.0\StartUpOfHasina.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\obj\Debug\net10.0\StartUpOfHasina.AssemblyInfoInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\obj\Debug\net10.0\StartUpOfHasina.AssemblyInfo.cs
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\obj\Debug\net10.0\StartUpOfHasina.csproj.CoreCompileInputs.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\bin\Debug\net10.0\StartUpOfHasina.exe
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\bin\Debug\net10.0\StartUpOfHasina.deps.json
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\bin\Debug\net10.0\StartUpOfHasina.runtimeconfig.json
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\bin\Debug\net10.0\StartUpOfHasina.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\bin\Debug\net10.0\StartUpOfHasina.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\obj\Debug\net10.0\StartUpOfHasina.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\obj\Debug\net10.0\refint\StartUpOfHasina.dll
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\obj\Debug\net10.0\StartUpOfHasina.pdb
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\obj\Debug\net10.0\StartUpOfHasina.genruntimeconfig.cache
+E:\CSharpPractice\Day2Training\Day2Assigments\StartUpOfHasina\obj\Debug\net10.0\ref\StartUpOfHasina.dll
