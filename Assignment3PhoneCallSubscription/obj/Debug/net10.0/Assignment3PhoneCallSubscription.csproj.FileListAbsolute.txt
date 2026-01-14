@@ -1,0 +1,14 @@
+E:\Day2.NET\Assignment3PhoneCallSubscription\obj\Debug\net10.0\Assignment3PhoneCallSubscription.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\Assignment3PhoneCallSubscription\obj\Debug\net10.0\Assignment3PhoneCallSubscription.AssemblyInfoInputs.cache
+E:\Day2.NET\Assignment3PhoneCallSubscription\obj\Debug\net10.0\Assignment3PhoneCallSubscription.AssemblyInfo.cs
+E:\Day2.NET\Assignment3PhoneCallSubscription\obj\Debug\net10.0\Assignment3PhoneCallSubscription.csproj.CoreCompileInputs.cache
+E:\Day2.NET\Assignment3PhoneCallSubscription\bin\Debug\net10.0\Assignment3PhoneCallSubscription.exe
+E:\Day2.NET\Assignment3PhoneCallSubscription\bin\Debug\net10.0\Assignment3PhoneCallSubscription.deps.json
+E:\Day2.NET\Assignment3PhoneCallSubscription\bin\Debug\net10.0\Assignment3PhoneCallSubscription.runtimeconfig.json
+E:\Day2.NET\Assignment3PhoneCallSubscription\bin\Debug\net10.0\Assignment3PhoneCallSubscription.dll
+E:\Day2.NET\Assignment3PhoneCallSubscription\bin\Debug\net10.0\Assignment3PhoneCallSubscription.pdb
+E:\Day2.NET\Assignment3PhoneCallSubscription\obj\Debug\net10.0\Assignment3PhoneCallSubscription.dll
+E:\Day2.NET\Assignment3PhoneCallSubscription\obj\Debug\net10.0\refint\Assignment3PhoneCallSubscription.dll
+E:\Day2.NET\Assignment3PhoneCallSubscription\obj\Debug\net10.0\Assignment3PhoneCallSubscription.pdb
+E:\Day2.NET\Assignment3PhoneCallSubscription\obj\Debug\net10.0\Assignment3PhoneCallSubscription.genruntimeconfig.cache
+E:\Day2.NET\Assignment3PhoneCallSubscription\obj\Debug\net10.0\ref\Assignment3PhoneCallSubscription.dll
