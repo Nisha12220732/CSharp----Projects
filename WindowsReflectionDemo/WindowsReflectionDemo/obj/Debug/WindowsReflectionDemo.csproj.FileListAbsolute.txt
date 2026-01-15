@@ -1,0 +1,10 @@
+E:\Day2.NET\WindowsReflectionDemo\WindowsReflectionDemo\bin\Debug\WindowsReflectionDemo.exe.config
+E:\Day2.NET\WindowsReflectionDemo\WindowsReflectionDemo\bin\Debug\WindowsReflectionDemo.exe
+E:\Day2.NET\WindowsReflectionDemo\WindowsReflectionDemo\bin\Debug\WindowsReflectionDemo.pdb
+E:\Day2.NET\WindowsReflectionDemo\WindowsReflectionDemo\obj\Debug\WindowsReflectionDemo.csproj.AssemblyReference.cache
+E:\Day2.NET\WindowsReflectionDemo\WindowsReflectionDemo\obj\Debug\WindowsReflectionDemo.Form1.resources
+E:\Day2.NET\WindowsReflectionDemo\WindowsReflectionDemo\obj\Debug\WindowsReflectionDemo.Properties.Resources.resources
+E:\Day2.NET\WindowsReflectionDemo\WindowsReflectionDemo\obj\Debug\WindowsReflectionDemo.csproj.GenerateResource.cache
+E:\Day2.NET\WindowsReflectionDemo\WindowsReflectionDemo\obj\Debug\WindowsReflectionDemo.csproj.CoreCompileInputs.cache
+E:\Day2.NET\WindowsReflectionDemo\WindowsReflectionDemo\obj\Debug\WindowsReflectionDemo.exe
+E:\Day2.NET\WindowsReflectionDemo\WindowsReflectionDemo\obj\Debug\WindowsReflectionDemo.pdb
