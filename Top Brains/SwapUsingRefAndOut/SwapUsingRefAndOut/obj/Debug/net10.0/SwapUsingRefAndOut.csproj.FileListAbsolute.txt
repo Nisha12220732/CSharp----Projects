@@ -1,0 +1,14 @@
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\bin\Debug\net10.0\SwapUsingRefAndOut.exe
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\bin\Debug\net10.0\SwapUsingRefAndOut.deps.json
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\bin\Debug\net10.0\SwapUsingRefAndOut.runtimeconfig.json
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\bin\Debug\net10.0\SwapUsingRefAndOut.dll
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\bin\Debug\net10.0\SwapUsingRefAndOut.pdb
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\obj\Debug\net10.0\SwapUsingRefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\obj\Debug\net10.0\SwapUsingRefAndOut.AssemblyInfoInputs.cache
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\obj\Debug\net10.0\SwapUsingRefAndOut.AssemblyInfo.cs
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\obj\Debug\net10.0\SwapUsingRefAndOut.csproj.CoreCompileInputs.cache
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\obj\Debug\net10.0\SwapUsingRefAndOut.dll
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\obj\Debug\net10.0\refint\SwapUsingRefAndOut.dll
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\obj\Debug\net10.0\SwapUsingRefAndOut.pdb
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\obj\Debug\net10.0\SwapUsingRefAndOut.genruntimeconfig.cache
+E:\Day2.NET\SwapUsingRefAndOut\SwapUsingRefAndOut\obj\Debug\net10.0\ref\SwapUsingRefAndOut.dll
