@@ -1,0 +1,14 @@
+E:\Day2.NET\LargestInteger\LargestInteger\bin\Debug\net10.0\LargestInteger.exe
+E:\Day2.NET\LargestInteger\LargestInteger\bin\Debug\net10.0\LargestInteger.deps.json
+E:\Day2.NET\LargestInteger\LargestInteger\bin\Debug\net10.0\LargestInteger.runtimeconfig.json
+E:\Day2.NET\LargestInteger\LargestInteger\bin\Debug\net10.0\LargestInteger.dll
+E:\Day2.NET\LargestInteger\LargestInteger\bin\Debug\net10.0\LargestInteger.pdb
+E:\Day2.NET\LargestInteger\LargestInteger\obj\Debug\net10.0\LargestInteger.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\LargestInteger\LargestInteger\obj\Debug\net10.0\LargestInteger.AssemblyInfoInputs.cache
+E:\Day2.NET\LargestInteger\LargestInteger\obj\Debug\net10.0\LargestInteger.AssemblyInfo.cs
+E:\Day2.NET\LargestInteger\LargestInteger\obj\Debug\net10.0\LargestInteger.csproj.CoreCompileInputs.cache
+E:\Day2.NET\LargestInteger\LargestInteger\obj\Debug\net10.0\LargestInteger.dll
+E:\Day2.NET\LargestInteger\LargestInteger\obj\Debug\net10.0\refint\LargestInteger.dll
+E:\Day2.NET\LargestInteger\LargestInteger\obj\Debug\net10.0\LargestInteger.pdb
+E:\Day2.NET\LargestInteger\LargestInteger\obj\Debug\net10.0\LargestInteger.genruntimeconfig.cache
+E:\Day2.NET\LargestInteger\LargestInteger\obj\Debug\net10.0\ref\LargestInteger.dll
