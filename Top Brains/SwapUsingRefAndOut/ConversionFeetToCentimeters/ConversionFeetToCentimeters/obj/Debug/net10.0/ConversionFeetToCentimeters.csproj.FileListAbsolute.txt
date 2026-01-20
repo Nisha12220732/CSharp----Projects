@@ -1,0 +1,14 @@
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\bin\Debug\net10.0\ConversionFeetToCentimeters.exe
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\bin\Debug\net10.0\ConversionFeetToCentimeters.deps.json
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\bin\Debug\net10.0\ConversionFeetToCentimeters.runtimeconfig.json
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\bin\Debug\net10.0\ConversionFeetToCentimeters.dll
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\bin\Debug\net10.0\ConversionFeetToCentimeters.pdb
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\obj\Debug\net10.0\ConversionFeetToCentimeters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\obj\Debug\net10.0\ConversionFeetToCentimeters.AssemblyInfoInputs.cache
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\obj\Debug\net10.0\ConversionFeetToCentimeters.AssemblyInfo.cs
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\obj\Debug\net10.0\ConversionFeetToCentimeters.csproj.CoreCompileInputs.cache
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\obj\Debug\net10.0\ConversionFeetToCentimeters.dll
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\obj\Debug\net10.0\refint\ConversionFeetToCentimeters.dll
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\obj\Debug\net10.0\ConversionFeetToCentimeters.pdb
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\obj\Debug\net10.0\ConversionFeetToCentimeters.genruntimeconfig.cache
+E:\Day2.NET\ConversionFeetToCentimeters\ConversionFeetToCentimeters\obj\Debug\net10.0\ref\ConversionFeetToCentimeters.dll
