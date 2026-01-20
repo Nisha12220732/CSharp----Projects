@@ -1,0 +1,14 @@
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.AssemblyInfoInputs.cache
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.AssemblyInfo.cs
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.csproj.CoreCompileInputs.cache
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\bin\Debug\net10.0\SumOfPositiveIntegers.exe
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\bin\Debug\net10.0\SumOfPositiveIntegers.deps.json
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\bin\Debug\net10.0\SumOfPositiveIntegers.runtimeconfig.json
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\bin\Debug\net10.0\SumOfPositiveIntegers.dll
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\bin\Debug\net10.0\SumOfPositiveIntegers.pdb
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.dll
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\obj\Debug\net10.0\refint\SumOfPositiveIntegers.dll
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.pdb
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\obj\Debug\net10.0\SumOfPositiveIntegers.genruntimeconfig.cache
+E:\Day2.NET\SumOfPositiveIntegers\SumOfPositiveIntegers\obj\Debug\net10.0\ref\SumOfPositiveIntegers.dll
