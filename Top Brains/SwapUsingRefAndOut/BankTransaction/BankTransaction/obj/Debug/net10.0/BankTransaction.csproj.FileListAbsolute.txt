@@ -1,0 +1,14 @@
+E:\Day2.NET\BankTransaction\BankTransaction\bin\Debug\net10.0\BankTransaction.exe
+E:\Day2.NET\BankTransaction\BankTransaction\bin\Debug\net10.0\BankTransaction.deps.json
+E:\Day2.NET\BankTransaction\BankTransaction\bin\Debug\net10.0\BankTransaction.runtimeconfig.json
+E:\Day2.NET\BankTransaction\BankTransaction\bin\Debug\net10.0\BankTransaction.dll
+E:\Day2.NET\BankTransaction\BankTransaction\bin\Debug\net10.0\BankTransaction.pdb
+E:\Day2.NET\BankTransaction\BankTransaction\obj\Debug\net10.0\BankTransaction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\BankTransaction\BankTransaction\obj\Debug\net10.0\BankTransaction.AssemblyInfoInputs.cache
+E:\Day2.NET\BankTransaction\BankTransaction\obj\Debug\net10.0\BankTransaction.AssemblyInfo.cs
+E:\Day2.NET\BankTransaction\BankTransaction\obj\Debug\net10.0\BankTransaction.csproj.CoreCompileInputs.cache
+E:\Day2.NET\BankTransaction\BankTransaction\obj\Debug\net10.0\BankTransaction.dll
+E:\Day2.NET\BankTransaction\BankTransaction\obj\Debug\net10.0\refint\BankTransaction.dll
+E:\Day2.NET\BankTransaction\BankTransaction\obj\Debug\net10.0\BankTransaction.pdb
+E:\Day2.NET\BankTransaction\BankTransaction\obj\Debug\net10.0\BankTransaction.genruntimeconfig.cache
+E:\Day2.NET\BankTransaction\BankTransaction\obj\Debug\net10.0\ref\BankTransaction.dll
