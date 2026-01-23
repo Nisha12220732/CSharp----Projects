@@ -1,0 +1,14 @@
+E:\Day2.NET\GCD\GCD\bin\Debug\net10.0\GCD.exe
+E:\Day2.NET\GCD\GCD\bin\Debug\net10.0\GCD.deps.json
+E:\Day2.NET\GCD\GCD\bin\Debug\net10.0\GCD.runtimeconfig.json
+E:\Day2.NET\GCD\GCD\bin\Debug\net10.0\GCD.dll
+E:\Day2.NET\GCD\GCD\bin\Debug\net10.0\GCD.pdb
+E:\Day2.NET\GCD\GCD\obj\Debug\net10.0\GCD.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\GCD\GCD\obj\Debug\net10.0\GCD.AssemblyInfoInputs.cache
+E:\Day2.NET\GCD\GCD\obj\Debug\net10.0\GCD.AssemblyInfo.cs
+E:\Day2.NET\GCD\GCD\obj\Debug\net10.0\GCD.csproj.CoreCompileInputs.cache
+E:\Day2.NET\GCD\GCD\obj\Debug\net10.0\GCD.dll
+E:\Day2.NET\GCD\GCD\obj\Debug\net10.0\refint\GCD.dll
+E:\Day2.NET\GCD\GCD\obj\Debug\net10.0\GCD.pdb
+E:\Day2.NET\GCD\GCD\obj\Debug\net10.0\GCD.genruntimeconfig.cache
+E:\Day2.NET\GCD\GCD\obj\Debug\net10.0\ref\GCD.dll
