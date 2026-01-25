@@ -1,0 +1,14 @@
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\bin\Debug\net10.0\SumOfInt in ObjectArray.exe
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\bin\Debug\net10.0\SumOfInt in ObjectArray.deps.json
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\bin\Debug\net10.0\SumOfInt in ObjectArray.runtimeconfig.json
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\bin\Debug\net10.0\SumOfInt in ObjectArray.dll
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\bin\Debug\net10.0\SumOfInt in ObjectArray.pdb
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\obj\Debug\net10.0\SumOfInt in ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\obj\Debug\net10.0\SumOfInt in ObjectArray.AssemblyInfoInputs.cache
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\obj\Debug\net10.0\SumOfInt in ObjectArray.AssemblyInfo.cs
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\obj\Debug\net10.0\SumOfInt in ObjectArray.csproj.CoreCompileInputs.cache
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\obj\Debug\net10.0\SumOfInt in ObjectArray.dll
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\obj\Debug\net10.0\refint\SumOfInt in ObjectArray.dll
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\obj\Debug\net10.0\SumOfInt in ObjectArray.pdb
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\obj\Debug\net10.0\SumOfInt in ObjectArray.genruntimeconfig.cache
+E:\Day2.NET\SumOfInt in ObjectArray\SumOfInt in ObjectArray\obj\Debug\net10.0\ref\SumOfInt in ObjectArray.dll
