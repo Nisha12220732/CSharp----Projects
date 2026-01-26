@@ -1,0 +1,14 @@
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\bin\Debug\net10.0\NotNull_DoubleArray.exe
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\bin\Debug\net10.0\NotNull_DoubleArray.deps.json
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\bin\Debug\net10.0\NotNull_DoubleArray.runtimeconfig.json
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\bin\Debug\net10.0\NotNull_DoubleArray.dll
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\bin\Debug\net10.0\NotNull_DoubleArray.pdb
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\obj\Debug\net10.0\NotNull_DoubleArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\obj\Debug\net10.0\NotNull_DoubleArray.AssemblyInfoInputs.cache
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\obj\Debug\net10.0\NotNull_DoubleArray.AssemblyInfo.cs
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\obj\Debug\net10.0\NotNull_DoubleArray.csproj.CoreCompileInputs.cache
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\obj\Debug\net10.0\NotNull_DoubleArray.dll
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\obj\Debug\net10.0\refint\NotNull_DoubleArray.dll
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\obj\Debug\net10.0\NotNull_DoubleArray.pdb
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\obj\Debug\net10.0\NotNull_DoubleArray.genruntimeconfig.cache
+E:\Day2.NET\NotNull_DoubleArray\NotNull_DoubleArray\obj\Debug\net10.0\ref\NotNull_DoubleArray.dll
